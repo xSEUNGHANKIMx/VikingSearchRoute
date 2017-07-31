@@ -1,0 +1,57 @@
+<resources>
+
+    <string-array name="array_countries">
+        <item>Austria</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Greece</item>
+        <item>Germany</item>
+        <item>Hungary</item>
+        <item>Italy</item>
+        <item>Netherlands</item>
+        <item>Russia</item>
+        <item>Spain</item>
+    </string-array>
+    <string-array name="array_austria_city">
+        <item>Melk</item>
+        <item>Vienna</item>
+    </string-array>
+    <string-array name="array_england_city">
+        <item>London</item>
+    </string-array>
+    <string-array name="array_france_city">
+        <item>Paris</item>
+    </string-array>
+    <string-array name="array_greece_city">
+        <item>Athens</item>
+    </string-array>
+    <string-array name="array_germany_city">
+        <item>Bamberg</item>
+        <item>Cologne</item>
+        <item>Koblenz</item>
+        <item>Miltenberg</item>
+        <item>Regensburg</item>
+        <item>Passau</item>
+        <item>Wurzburg</item>
+    </string-array>
+    <string-array name="array_hungary_city">
+        <item>Budapest</item>
+    </string-array>
+    <string-array name="array_italy_city">
+        <item>Florence</item>
+        <item>Rome</item>
+        <item>Venice</item>
+    </string-array>
+    <string-array name="array_netherlands_city">
+        <item>Amsterdam</item>
+        <item>Kinderkijk</item>
+    </string-array>
+    <string-array name="array_russia_city">
+        <item>Moscow</item>
+        <item>St Petersburg</item>
+    </string-array>
+    <string-array name="array_spain_city">
+        <item>Madrid</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Viking</string>
+    <string name="main_description">SELECT 4 CITIES</string>
+    <string name="toast_max_selection">Please select only 4 location.</string>
+    <string name="city_select_count">(%1$d)</string>
+    <string name="search">SEARCH</string>
+    <string name="search_err">An error has occurred with search</string>
+    <string name="select_first_city">SELECT FIRST CITY TO VISIT</string>
+    <string name="shortest_route_result">SHORTEST ROUTE\u0020\u0020\u0020(%1$d km)</string>
+    <string name="shortest_route_map_title">SHORTEST ROUTE</string>
+    <string name="show_on_map_btn">Show Map</string>
+    
+    <string name="intentshow_on_map_btn">Show Map</string>
+    
+
+</resources>
